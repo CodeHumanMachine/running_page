@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://futurewei.tech',
-    logo: 'https://s3.bmp.ovh/imgs/2023/01/17/317425d25d8d79be.jpg',
+    logo: 'https://s3.bmp.ovh/imgs/2023/02/09/c117c4b29ec7b625.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
